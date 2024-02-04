@@ -432,3 +432,133 @@
     font-weight: bolder;
     text-decoration: none;
 }
+.akira{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background: black;
+  color: white;
+  margin-top: 3100px;
+}
+
+.yt-movies{
+  padding: 10px 170px;
+  line-height: 1.9 ;
+}
+.yt-movies h1 {
+  color: teal;
+}
+.yt-movies p {
+  font-size: 25px;
+
+}
+.line{
+  height: 2px;
+  background: white;
+  width: 7%;
+  margin-left: 170px;
+  position: absolute;
+}
+.yt-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.inside-yt img {
+  padding: 10px 0px;
+  height: 350px;
+  border-top-right-radius: 100px;
+  border-top-left-radius: 100px;
+}
+.heading2 p {
+  font-size: 15px;
+}
+.like{
+  font-size: 15px;
+  float: right;
+  margin-top: -56px;
+}
+.youtubebtn{
+  position: absolute;
+  height: 30%;
+  background: black;
+  width: 100%;
+  margin-top: 3700px;
+  text-align: center;
+}
+.youtubebtn a{
+  text-decoration: none;
+  padding: 10px 30px ;
+  background-color: teal;
+  color: black;
+  font-weight: 700;
+  border-radius: 4px;
+}
+.youtubebtn {
+  padding: 0px 4px;
+  font-size: 19px;
+
+}
+.footer {
+  position: absolute;
+  margin-top: 3860px;
+  height: 20vh;
+  color: white;
+  background: #141414;
+  width: 100%;
+}
+.logopart img {
+  height:7vh ;
+  margin-top: -50px;
+  margin-left: 70px;
+}
+.logopart h1 {
+  color: rgb(18,241,241);
+  font-size: 25px;
+  margin-top: 40px;
+  margin-left: 120px;
+}
+.footer-container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.copyright{
+  font-size: 16px;
+  margin-top: 30px;
+  font-weight: 500;
+}
+.socials {
+  font-size: 27px;
+  margin-top: 30px;
+  padding: 0px 4px;
+  color: rgb(18,241,241);
+}
+.btn4{
+  margin-right: 60px;
+  margin-top: 30px;
+}
+.btn4 a {
+  text-decoration: none;
+  padding: 10px 25px;
+  color: black;
+  background: teal;
+  border-radius: 30px;
+}
+
+.scroll{
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background: teal;
+  border-radius: 50px;
+  bottom: 100px;
+  right: 50px;
+  text-decoration: none;
+  font-size: 22px;
+  line-height: 50px;
+  text-align: center;
+}
+.scroll i{
+  color: black;
+}
